@@ -24,6 +24,7 @@ A curated list of related resources for 3d face specific part reconstruction.
 * Appearance Capture and Modeling of Human Teeth
 
 ## ear
+* Model-Based Teeth Reconstruction
 
 ## jaw
 * An empirical rig for jaw animation
